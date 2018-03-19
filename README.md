@@ -60,7 +60,7 @@ comp.saveFrameToPng()
 https://segmentfault.com/a/1190000002990030  
 如果这导出的图片最后我们还是要导入AE，我们可以通过设置将图片的alpha模式设置为「预乘（Premultiplied）」，预乘颜色设置为黑色来解决。 
 
-<img src="https://raw.githubusercontent.com/bigxixi/ReadMe-Resources/master/bodymovincn/prem.png" width="50%"/>
+<img src="https://raw.githubusercontent.com/bigxixi/ReadMe-Resources/master/bodymovincn/prem.png" width="100%"/>
 
 但是我们用bodymovin是为了导出给web或者安卓、ios使用，无法确定这些平台是否支持预乘技术，所以还是最好能直接导出传统png比较好。  
 所以我写了一个函数不走saveFrameToPng()导出png图片，直接用AE的渲染队列（render queue）处理，用AE渲染引擎渲染出来的效果总该没问题了吧？然后替换了bodymovin里的saveFrameToPng()方法，目前为止用它做了一些项目还没发现什么问题（我在mac下使用，windows没有大量测试，理论上也不会有什么问题）。  
