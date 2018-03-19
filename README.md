@@ -53,9 +53,13 @@ comp.saveFrameToPng()
 <img src="https://raw.githubusercontent.com/bigxixi/ReadMe-Resources/master/SaveFrameAsPNG-Plus/badalpha1.png" width="75%"/>
 
 
-这是什么情况？经过测试，感觉这个函数导出速度很快，我猜是因为它是直接从显存里获取图像的，而在GPU在处理资源时，为了效率会使用一种「预乘（Premultiplied）」技术，这个技术的特点是如果引擎不支持，呈现出来的png图片边缘会有「黑边」，感兴趣可以看下这篇文章：
+这是什么情况？经过测试，感觉这个函数导出速度很快，我猜是因为它是直接从显存里获取图像的，而在GPU在处理资源时，为了效率会使用一种「预乘（Premultiplied）」技术，这个技术的特点是如果引擎不支持，呈现出来的png图片边缘会有「黑边」，感兴趣可以看下这篇文章： 
 https://segmentfault.com/a/1190000002990030  
-如果这导出的图片最后我们还是要导入AE，我们可以通过设置将图片的alpha模式设置为「预乘（Premultiplied）」，预乘颜色设置为黑色来解决。但是我们用bodymovin是为了导出给web或者安卓、ios使用，无法确定这些平台是否支持预乘技术，所以还是最好能直接导出传统png比较好。  
+如果这导出的图片最后我们还是要导入AE，我们可以通过设置将图片的alpha模式设置为「预乘（Premultiplied）」，预乘颜色设置为黑色来解决。 
+
+<img src="https://raw.githubusercontent.com/bigxixi/ReadMe-Resources/master/bodymovincn/prem.png" width="50%"/>
+
+但是我们用bodymovin是为了导出给web或者安卓、ios使用，无法确定这些平台是否支持预乘技术，所以还是最好能直接导出传统png比较好。  
 所以我写了一个函数不走saveFrameToPng()导出png图片，直接用AE的渲染队列（render queue）处理，用AE渲染引擎渲染出来的效果总该没问题了吧？然后替换了bodymovin里的saveFrameToPng()方法，目前为止用它做了一些项目还没发现什么问题（我在mac下使用，windows没有大量测试，理论上也不会有什么问题）。  
 代码如下：  
 https://gist.github.com/bigxixi/d65f46552f8d1c2b91a8638f018f1843   
