@@ -16,7 +16,10 @@
 
 ## 下载地址  
 [`汉化+png黑边修复版`](https://github.com/bigxixi/bodymovin_cn/blob/master/5.1.8/%E4%B8%AD%E6%96%87%E4%BF%AE%E5%A4%8D%E7%89%88/bodymovin5.1.8cnFixed.zxp)
-### 其他版本：
+</br>
+
+***——其他版本：***  
+</br>
 [`英文原版（最新）`](https://github.com/airbnb/lottie-web/blob/master/build/extension/bodymovin.zxp)  
 [`汉化版（仅汉化，未修复png黑边问题）`](https://github.com/bigxixi/bodymovin_cn/blob/master/5.1.8/%E4%B8%AD%E6%96%87%E5%8E%9F%E7%89%88/bodymovin5.1.8cn.zxp)  
 [`英文版（仅修复png黑边问题）`](https://github.com/bigxixi/bodymovin_cn/blob/master/5.1.8/%E8%8B%B1%E6%96%87%E4%BF%AE%E5%A4%8D%E7%89%88/bodymovin5.1.8enFixed.zxp)  
