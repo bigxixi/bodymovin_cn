@@ -1,4 +1,4 @@
-2018.03.21更新5.1.9汉化
+2018.03.21更新[5.1.9汉化](https://github.com/bigxixi/bodymovin_cn/blob/master/5.1.9/%E4%B8%AD%E6%96%87%E4%BF%AE%E5%A4%8D%E7%89%88/bodymovin.zxp)    
 ————————
 # AE动画导出json工具-bodymovin(lottie)汉化版
 
