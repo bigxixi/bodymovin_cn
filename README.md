@@ -1,4 +1,5 @@
 
+-2018.08.10更新[5.2.1汉化](https://raw.githubusercontent.com/bigxixi/bodymovin_cn/master/5.2.1/bodymovin521cn.zxp)  
 -2018.07.30更新[5.2.0汉化](https://raw.githubusercontent.com/bigxixi/bodymovin_cn/master/5.2.0/bodymovin520cn.zxp)  
 -2018.07.06更新[5.1.20汉化](https://raw.githubusercontent.com/bigxixi/bodymovin_cn/master/5.1.20/bodymovin5120cn.zxp)   
 -2018.05.28更新[5.1.16汉化](https://raw.githubusercontent.com/bigxixi/bodymovin_cn/master/5.1.16/bodymovin5116cn.zxp)   
