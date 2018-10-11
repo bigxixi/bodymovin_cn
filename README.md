@@ -1,6 +1,7 @@
- **我只汉化插件界面，具体更新内容（英文）见**  
+# 我只汉化插件界面，具体更新内容（英文）见
 https://github.com/airbnb/lottie-web/blob/master/CHANGELOG.md
 
+-2018.10.11更新[5.3.4汉化](https://raw.githubusercontent.com/bigxixi/bodymovin_cn/master/5.3.4/bodymovin534cn.zxp)  
 -2018.10.03更新[5.3.3汉化](https://raw.githubusercontent.com/bigxixi/bodymovin_cn/master/5.3.3/bodymovin533cn.zxp)  
 -2018.09.25更新[5.3.1汉化](https://raw.githubusercontent.com/bigxixi/bodymovin_cn/master/5.3.1/bodymovin531cn.zxp)  
 -2018.09.17更新[5.3.0汉化](https://raw.githubusercontent.com/bigxixi/bodymovin_cn/master/5.3.0/bodymovin530cn.zxp)  
@@ -8,7 +9,9 @@ https://github.com/airbnb/lottie-web/blob/master/CHANGELOG.md
 -2018.07.30更新[5.2.0汉化](https://raw.githubusercontent.com/bigxixi/bodymovin_cn/master/5.2.0/bodymovin520cn.zxp)  
 -2018.07.06更新[5.1.20汉化](https://raw.githubusercontent.com/bigxixi/bodymovin_cn/master/5.1.20/bodymovin5120cn.zxp)   
 -2018.05.28更新[5.1.16汉化](https://raw.githubusercontent.com/bigxixi/bodymovin_cn/master/5.1.16/bodymovin5116cn.zxp)   
-# 从5.1.16开始，官方已修复导出png带黑边问题，不需修复，详见：https://zhuanlan.zhihu.com/p/37385550
+
+ **从5.1.16开始，官方已修复导出png带黑边问题，不需修复，详见：https://zhuanlan.zhihu.com/p/37385550**  
+ 
 -2018.04.23更新[5.1.12汉化](https://raw.githubusercontent.com/bigxixi/bodymovin_cn/master/5.1.12/bodymovin5112cn.zxp)     
 -2018.04.08更新[5.1.10汉化](https://raw.githubusercontent.com/bigxixi/bodymovin_cn/master/5.1.10/bodymovin5.1.10cn.zxp)     
 -2018.03.21更新[5.1.9汉化](https://github.com/bigxixi/bodymovin_cn/raw/master/5.1.9/%E4%B8%AD%E6%96%87%E4%BF%AE%E5%A4%8D%E7%89%88/bodymovin.zxp)        
