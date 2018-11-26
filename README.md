@@ -1,6 +1,7 @@
 # 我只汉化插件界面，具体更新内容（英文）见
 https://github.com/airbnb/lottie-web/blob/master/CHANGELOG.md
 
+-2018.11.26更新[5.4.2汉化](https://raw.githubusercontent.com/bigxixi/bodymovin_cn/master/5.4.2/bodymovin542cn.zxp)  
 -2018.10.30更新[5.4.1汉化](https://raw.githubusercontent.com/bigxixi/bodymovin_cn/master/5.4.1/bodymovin541cn.zxp)  
 -2018.10.11更新[5.3.4汉化](https://raw.githubusercontent.com/bigxixi/bodymovin_cn/master/5.3.4/bodymovin534cn.zxp)  
 -2018.10.03更新[5.3.3汉化](https://raw.githubusercontent.com/bigxixi/bodymovin_cn/master/5.3.3/bodymovin533cn.zxp)  
