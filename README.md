@@ -118,4 +118,4 @@ chmod +x "汉化+修复+打包脚本.command文件位置"
 
 也欢迎使用 PayPal：  
 
-[<img src="https://raw.githubusercontent.com/bigxixi/bigxixi.github.io/master/donate/index.hyperesources/paypal.png" width="30%" height="30%">](https://www.paypal.me/bigxixi/index.html)  
+[<img src="https://raw.githubusercontent.com/bigxixi/bigxixi.github.io/master/donate/index.hyperesources/paypal.png" width="30%" height="30%">](https://www.paypal.me/bigxixi)  
